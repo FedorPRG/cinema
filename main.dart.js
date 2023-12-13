@@ -36691,7 +36691,7 @@ if(i==null)i=0
 s=$.Ot[i]
 k=k.a.a<600
 j=k?350:1000
-r=k?950:450
+r=k?960:450
 q=this.d
 p=t.p
 return A.bb(o,new A.cU(B.jO,A.a8C(k?A.a8g(A.a([A.dk(A.a([A.a84(B.eX,B.ix,new A.j4(s.h(0,"src")),303.75),B.vd,A.dk(A.a([B.aV,A.fB(A.bt(s.h(0,n),23,B.eC,!0,B.aG,B.c7),o,300),B.aV,A.qC(A.bb(B.F,B.vx,o,o,o,o,o,300),new A.a2i(a,s),B.iA)],p),B.aq,B.bs,B.p),B.aV,A.dp(A.a([A.dk(A.a([A.bt("Running time",o,o,o,B.c8,o),B.aV,A.bt("Release date",o,o,o,B.c8,o),B.aV,A.bt("Genre",o,o,o,B.c8,o)],p),B.aq,B.cP,B.p),B.hO,A.dk(A.a([A.bt(s.h(0,m),o,o,o,B.aG,o),B.aV,A.bt(s.h(0,l),o,o,o,B.aG,o),B.aV,A.bt(s.h(0,"genre"),o,o,o,B.aG,o)],p),B.aq,B.cP,B.p)],p),B.pc,B.p)],p),B.a8,B.H,B.p)],p),q,B.P):A.a8g(A.a([A.dp(A.a([A.a84(B.eX,B.ix,new A.j4(s.h(0,"src")),303.75),B.vd,A.dk(A.a([A.fB(A.bt(s.h(0,n),23,B.eC,!0,B.aG,B.c7),o,300),A.qC(A.bb(B.F,B.vx,o,o,o,o,o,300),new A.a2j(a,s),B.iA)],p),B.aq,B.bs,B.p),B.hO,B.yZ,B.hO,A.dk(A.a([A.bt(s.h(0,m),o,o,o,B.aG,o),A.bt(s.h(0,l),o,o,o,B.aG,o),A.bt(s.h(0,"genre"),o,o,o,B.aG,o)],p),B.aq,B.cP,B.p)],p),B.H,B.p)],p),q,B.Z),q,B.b7,o,o,A.pq(),B.n,B.c0,o,10,B.J,!0,B.bk,o),o),o,B.wI,r,o,o,j)}}
